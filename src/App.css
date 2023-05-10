@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.form-width {
+  width: 25rem;
+  box-shadow: 5px 5px 12px 2px black;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
